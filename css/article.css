@@ -1,48 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: "Rubik", sans-serif;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-img {
-  vertical-align: middle;
-}
-
-a,
-ins {
-  text-decoration: none;
-}
-
-.container {
-  width: 1200px;
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-.visually-hidden {
-  clip: rect(0 0 0 0);
-  clip-path: inset(50%);
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-}
-
 /* hero section   */
-
-.site-main {
-}
-
-.hero {
-}
 
 .hero-inner {
   display: flex;
@@ -67,9 +23,6 @@ ins {
 
 .img-text {
   margin-left: 10px;
-}
-
-.title-div {
 }
 
 .hero-title {
@@ -163,15 +116,9 @@ ins {
   padding: 0;
 }
 
-.chegirma-img {
-}
-
 /* hero section  */
 
 /* interest section */
-
-.interest {
-}
 
 .interest-title {
   color: black;
