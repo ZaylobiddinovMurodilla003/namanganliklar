@@ -36,7 +36,7 @@ ins {
   width: 1px;
 }
 
-button:hover{
+button:hover {
   cursor: pointer;
 }
 
@@ -163,7 +163,27 @@ button:hover{
   line-height: normal;
 }
 
+.header-buttom-anchor:hover {
+  color: #c64228;
+}
+
+.hover {
+  color: #c64228;
+}
+
 /* /header */
+
+/* aside */
+.aside-container {
+  margin-bottom: 50px;
+  width: 1200px;
+}
+
+.aside-img {
+  width: 1160px;
+}
+
+/* /aside */
 
 /* footer */
 
